@@ -40,7 +40,11 @@ plugins:
   - tags:
       tags_file: tags.md
   - blog
+
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
