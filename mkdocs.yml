@@ -34,12 +34,14 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
+
 # extra:
 #   social: #Qui vi allego i link dei miei rispettivi social! 
 #     - type: "github"
 #       link: "https://github.com/PistilliGiulia"
 #     - type: "instagram"
 #       link: "https://www.instagram.com/giulia.pistilli/"
+
 plugins:
   - search
   - tags:
