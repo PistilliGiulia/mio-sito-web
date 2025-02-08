@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Benvenuti nel mio sito!💛​
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![alt text](image.png)  
 
 ## Commands
 
@@ -15,3 +15,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PistilliGiulia&show_icons=true&theme=radical)
+
+

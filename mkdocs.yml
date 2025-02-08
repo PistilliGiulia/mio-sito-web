@@ -62,8 +62,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Code Docs:
-    - Java: coding/my-first-java-file.md
+  - NOI CHI SIAMO?:
+    - ECCOCI QUA!: coding/my-first-java-file.md
   - About:
     - About Me: about/about.md
     - Childhood: about/childhood.md
